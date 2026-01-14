@@ -1,3 +1,10 @@
+### 0.2.0
+
+* Add a default timeout of 2 seconds when attempting to access a page via {httr}
+  (done by `faviconLink()` if {httr} is installed). This can be modified by the
+  new package option `FAVICONPLEASE_TIMEOUT_SECONDS`. It must be an integer
+  (suffix of `L`).
+
 ### 0.1.4
 
 * Minor maintenance release

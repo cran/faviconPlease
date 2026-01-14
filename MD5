@@ -1,8 +1,8 @@
-52c15a7c859a3e3c2ee5058b0aa4c6d6 *DESCRIPTION
+565ff21471b80b29af3af13e97408dcb *DESCRIPTION
 253ee8962bb24c09e221b744036b3ffe *LICENSE
 424b7be71ce3961f6de8f60c2ac2a9e7 *NAMESPACE
-320ef36cdc046bba249d417a62dd69a0 *NEWS.md
-33d0a54d4037dd3801a34362e1c34e8e *R/faviconPlease.R
+85e96ebd6b026953c07a7deffc87b368 *NEWS.md
+1937b04818b3fcdae405a55e42f5a194 *R/faviconPlease.R
 8d34dead5a63c6326309aeca8639b48d *README.md
 74ca54067b440e5aef345f6dc1c586a5 *inst/tinytest/test-ensembl.R
 ec360849d1e4f9a3977ea2c3d14ccea2 *inst/tinytest/test-errors.R
@@ -20,6 +20,6 @@ e6537d620fff843fb951b26e45e97315 *inst/tinytest/testFiles/root-relative-with-bas
 88471a4f2d48228ca95f22c4c888f2c6 *man/faviconDuckDuckGo.Rd
 1024f0ca012d5e63d079dcbf242e2e29 *man/faviconGoogle.Rd
 58cbb7cbbe67d19bf9d0304052098b1a *man/faviconIco.Rd
-204cdee3a1cf504cf7fa708a6f8d131e *man/faviconLink.Rd
+d0ad874e954c1749aa2d568a605b0321 *man/faviconLink.Rd
 933d1ff0fe6861a5533f3a37b1a61ca3 *man/faviconPlease.Rd
-821a45e94cf481d7623b4a9f291d6f1f *tests/tinytest.R
+3b73c1cc9cd24334107fb62e072a4fd0 *tests/tinytest.R

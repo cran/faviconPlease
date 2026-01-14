@@ -1,6 +1,6 @@
 Package: faviconPlease
 Title: Find the URL to the 'Favicon' for a Website
-Version: 0.1.4
+Version: 0.2.0
 Authors@R: 
     person(given = "John",
            family = "Blischak",
@@ -15,10 +15,10 @@ Imports: utils, xml2
 Suggests: httr, tinytest (>= 1.0.0), ttdo
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2025-05-15 18:54:38 UTC; john
+Packaged: 2026-01-14 14:19:33 UTC; john
 Author: John Blischak [aut, cre]
 Maintainer: John Blischak <jdblischak@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-05-15 19:20:02 UTC
+Date/Publication: 2026-01-14 14:50:02 UTC
